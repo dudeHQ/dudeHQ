@@ -1,6 +1,6 @@
 # Victor Rodrigues
 
-Frontend / UX Designer / Marketing Digital
+Frontend / UX Designer / Digital Marketing
 ### [](https://github.com/dudeHQ#hi-there-)Hi there  👋
 
 I am a Front-end student. I'm currently learning HTML, CSS and JavaScript. I've developed several websites using Elementor on WordPress.
