@@ -8,4 +8,4 @@ I am a Front-end student. I'm currently learning HTML, CSS and JavaScript. I've 
 😊  I'm here to learn!  
 💻  HTML - CSS - JavaScript - Wordpress  
 🎮  About me: gamer and beer lover  🍺  
-✉️  Contacts:  [Linkedin](https://www.linkedin.com/in/victormkt/)  |  [contato@victormkt.com.br](mailto:contato@victormkt.com.br)
+✉️  Contacts:  [Linkedin](https://www.linkedin.com/in/victormkt/)
